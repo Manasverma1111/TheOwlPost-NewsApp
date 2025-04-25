@@ -1,6 +1,5 @@
 # 🦉 The OwlPost - News Aggregator App
 
-[![Build](https://img.shields.io/github/actions/workflow/status/Manasverma1111/TheOwlPost-NewsApp/node.js.yml?branch=main)](https://github.com/Manasverma1111/TheOwlPost-NewsApp/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](#)
 
@@ -60,5 +59,4 @@ Contributions are welcome!
 Feel free to fork the repo, open an issue, or submit a pull request.
 
 📸 Preview
-
-![alt text](<Screenshot (97).png>)
+![Screenshot (97)](https://github.com/user-attachments/assets/ffcfa12a-9126-4751-a9b2-cf38015fca70)
