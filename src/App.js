@@ -2,6 +2,7 @@ import './App.css';
 import NavBar from './components/NavBar';
 import React, { Component } from 'react';
 import News from './components/News';
+import Footer from './components/Footer';
 
 
 import {
@@ -48,10 +49,12 @@ export default class App extends Component {
             <Route path="/technology" element={<News setProgress={this.setProgress} apiKey={this.apiKey} key="technology" pageSize={this.pageSize} country={this.country} category="technology" />} />
           </Routes>
         </Router>
+        <Footer/>
       </div>
     );
   }
 }
+
 
 
 

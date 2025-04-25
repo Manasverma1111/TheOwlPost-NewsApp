@@ -32,7 +32,7 @@ export class NavBar extends Component {
               <span className="navbar-toggler-icon"></span>
             </button>
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
-              <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+              <ul className="navbar-nav mx-auto mb-2 mb-lg-0 text-center gap-3">
                 <li className="nav-item"><NavLink className="nav-link" to="/">Home</NavLink></li>
                 {/* <li className="nav-item"><a className="nav-link" to="/about">About</a></li> */}
                 <li className="nav-item"><NavLink className="nav-link" to="/business">Business</NavLink></li>
@@ -43,10 +43,6 @@ export class NavBar extends Component {
                 <li className="nav-item"><NavLink className="nav-link" to="/sports">Sports</NavLink></li>
                 <li className="nav-item"><NavLink className="nav-link" to="/technology">Technology</NavLink></li>
               </ul>
-              <form className="d-flex" role="search">
-                <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
-                <button className="btn btn-outline-primary" type="submit">Search</button>
-              </form>
             </div>
           </div>
         </nav>
