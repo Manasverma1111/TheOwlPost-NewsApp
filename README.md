@@ -36,7 +36,6 @@ The OwlPost is a modern and responsive News Aggregator web application that deli
 
 ### Clone the Repository
 
-```bash
 git clone https://github.com/Manasverma1111/TheOwlPost-NewsApp.git
 cd TheOwlPost-NewsApp
 
