@@ -35,18 +35,17 @@ The OwlPost is a modern and responsive News Aggregator web application that deli
 - A free NewsAPI key — [Get it here](https://newsapi.org/)
 
 ### Clone the Repository
-
-git clone https://github.com/Manasverma1111/TheOwlPost-NewsApp.git
-cd TheOwlPost-NewsApp
+#git clone https://github.com/Manasverma1111/TheOwlPost-NewsApp.git
+#cd TheOwlPost-NewsApp
 
 ## Install Dependencies
 
 npm install
-Create a .env file in the root directory of your project
-Then, add your NewsAPI key: REACT_APP_NEWS_API_KEY=your_news_api_key_here
-Run the App Locally
-npm start
-This will start the development server at:
+#Create a .env file in the root directory of your project
+#Then, add your NewsAPI key: REACT_APP_NEWS_API_KEY=your_news_api_key_here
+#Run the App Locally
+#npm start
+#This will start the development server at:
 🔗 http://localhost:3000
 
 Deployment
